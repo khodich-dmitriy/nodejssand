@@ -1,0 +1,22 @@
+{
+  "name": "nodejssand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scripts": {
+      "start": "node server.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khodich-dmitriy/nodejssand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khodich-dmitriy/nodejssand/issues"
+  },
+  "homepage": "https://github.com/khodich-dmitriy/nodejssand#readme"
+}
